@@ -1,1 +1,1 @@
-Create a script that copies all the HTML
+Create a script that copies all the HTML files
