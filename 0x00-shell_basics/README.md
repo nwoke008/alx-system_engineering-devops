@@ -1,1 +1,1 @@
-a script that lists all files
+ script that prints the type of the file named iamafile. The file iamafile will be in the /tmp
