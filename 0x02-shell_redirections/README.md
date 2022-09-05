@@ -1,1 +1,1 @@
-line 2
+It a good file
