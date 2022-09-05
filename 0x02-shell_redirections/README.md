@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd
+let display file
