@@ -1,2 +1,1 @@
-#!/bin/bash
-"Hello,World" | fmt | pr | 1pr
+ printf"Hello,World\n" 
