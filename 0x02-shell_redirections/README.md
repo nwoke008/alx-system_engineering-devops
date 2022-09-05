@@ -1,1 +1,1 @@
-characters A and c from input to Z and e
+script that removes all letters c and C from input
