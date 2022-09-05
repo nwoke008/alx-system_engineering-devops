@@ -1,1 +1,1 @@
-duplicate line
+No more javascript
