@@ -1,1 +1,1 @@
-print hello user in linux
+the path to succuess
