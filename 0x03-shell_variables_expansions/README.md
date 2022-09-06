@@ -1,1 +1,1 @@
-Power divided by Divide
+exponential lobe and breath
