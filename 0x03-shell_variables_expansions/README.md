@@ -1,1 +1,1 @@
-the path to succuess
+The path to sucess is to make massive D
