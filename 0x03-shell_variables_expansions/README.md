@@ -1,1 +1,1 @@
-The path to sucess is to make massive D
+script that counts the number of directories in the PATH
