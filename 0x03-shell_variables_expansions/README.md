@@ -1,1 +1,1 @@
-combination of two numbers
+script that prints a number with two decimal places
